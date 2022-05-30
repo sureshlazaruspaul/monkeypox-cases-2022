@@ -9,9 +9,7 @@ The web app shows three data points.
 - Top (up to) 10 countries and the cumulative rest of the world case statistics - frequency plot. 
 - Spread vector: spatial map of the top (up to) 10 countries with MPX confirmed cases.
 
-<center>
 ![Figure 1](https://github.com/sureshlazaruspaul/monkeypox-cases-2022/blob/main/figure.png)
-</center>
 
 ***
 
