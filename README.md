@@ -10,7 +10,7 @@ The web app shows three data points.
 - Spread vector: spatial map of the top (up to) 10 countries with MPX confirmed cases.
 
 <center>
-![Figure 1](image.png)
+![Figure 1]([image.png](https://github.com/sureshlazaruspaul/monkeypox-cases-2022/blob/main/figure.png))
 </center>
 
 ***
