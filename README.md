@@ -16,4 +16,4 @@ The web app shows three data points.
 # Links
 - App live at [shinyapps.io](https://sureshlp.shinyapps.io/Monkeypox_cases_2022/)
 - Data source: [https://github.com/globaldothealth/monkeypox](https://github.com/globaldothealth/monkeypox)
-- R code: click [here](https://github.com/sureshlazaruspaul/monkeypox-cases-2022/blob/main/monkeypox2022.R)
+- [R code](https://github.com/sureshlazaruspaul/monkeypox-cases-2022/blob/main/monkeypox2022.R)
